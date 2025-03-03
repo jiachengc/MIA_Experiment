@@ -1,7 +1,9 @@
 Here at default, the epsilon is set to 100. k_+ is set to 80, and k_− is set as range(10, 200, 10). MMD parameter: lambda is 2, sigma is 0.1.
 
 shadow model 0, best eps: 2.8941234117373824
+
 shadow model 1, best eps: 2.8941234117373824
+
 shadow model 2, best eps: 3.0028323642909527
 shadow model 3, best eps: 3.3582420125603676
 shadow model 4, best eps: 3.3582420125603676
